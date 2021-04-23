@@ -1,0 +1,16 @@
+เรียน ผู้สนใจลงทะเบียน
+
+ทางทีมที่ปรึกษาขอนำส่ง Username และ Password สำหรับเข้าเว็บไซด์ดังนี้ครับ
+
+เว็บไซด์คำนวณ : http://boiler.besten.co.th/backend/web/index.php?r=site%2Flogin
+
+Username : $PERSON_USER
+Password : $PERSON_PASS
+
+คู่มือใช้งาน : https://docs.google.com/presentation/d/1RN-RDnVP2Mv5Y7aXdvotHhUr8pDI9gZbhBBTHqwoAYY/edit
+
+ขอบคุณสำหรับการให้ความสนใจ,
+สิริเนตร อุบล
+บริษัท เบสท์เอ็น จำกัด
+ที่ปรึกษาโครงการพัฒนาและสาธิตการใช้เกณฑ์มาตรฐานประสิทธิภาพการใช้พลังงาน ฯ
+โทรศัพท์ 081-022-2708
